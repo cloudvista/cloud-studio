@@ -2,8 +2,7 @@
 
 ## Introduction
 
-Welcome to an early Preview release of Cloud Studio, a code editor for M routines and globals in Iris. Documentation will follow an Alpha release.
-The project is currently "work in progress" and is at the early stages of development and testing. Plan is for integration with all ISO/ANSI compliant M implementations.  Open source and free to use and modify with no restriction. Author:  Sean Connelly 
+Welcome to an early Preview release of Cloud Studio, a pure web-based code editor for M routines and globals. It is based on the same editor and rendering and web engine as VS Code Server but with no dependencies and self-contained. Documentation will follow an Alpha release. The project is currently "work in progress" and is at the early stages of development and testing. Plan is for integration with all ISO/ANSI compliant M implementations.  Open source and free to use and modify with no restriction. Author:  Sean Connelly 
 
 [Video Demonstration](https://www.youtube.com/watch?v=Am6QAvrPPPg)
 
@@ -36,4 +35,6 @@ Password: **SYS**
 
 # References  
 https://github.com/SeanConnelly/CloudStudio  
-https://hub.docker.com/r/ramb0/cloudstudio
+https://hub.docker.com/r/ramb0/cloudstudio  
+https://github.com/coder/code-server
+
