@@ -15,7 +15,7 @@ Welcome to an early Preview release of Cloud Studio, a pure web-based code edito
 navigate to:  
 https://52773-gitpod_server_address/cloudstudio/CloudStudio.Index.cls
   
-where  
+&nbsp;&nbsp;&nbsp;&nbsp;  where  
 &nbsp;&nbsp;&nbsp;&nbsp;  gitpod_server_address = ramsailopal-intersystem-xxxxxxxxxxx.ws-us81.gitpod.io  
 
 and change the password on request from:  
