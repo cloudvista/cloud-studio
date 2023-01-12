@@ -11,7 +11,7 @@ The project is currently "work in progress" and is at the early stages of develo
 
 
 ## Gitpod
- [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/Intersystems-CloudStudio)  (needs free Gitpod account)
+ [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/Intersystems-CloudStudio)  
  
 then navigate to:
 
