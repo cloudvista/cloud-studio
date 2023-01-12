@@ -13,9 +13,9 @@ Welcome to an early Preview release of Cloud Studio, a pure web-based code edito
  [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/Intersystems-CloudStudio)  
  
 then navigate to:  
-``
-https://52773-<gitpod server address\>/cloudstudio/CloudStudio.Index.cls    
-``  
+
+https://52773-*<gitpod server address\>*__/cloudstudio/CloudStudio.Index.cls__    
+  
 where  
 \<gitpod server address\> = ramsailopal-intersystem-xxxxxxxxxxx.ws-us81.gitpod.io  
 
