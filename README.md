@@ -12,23 +12,24 @@ Welcome to an early Preview release of Cloud Studio, a pure web-based code edito
 ## Gitpod
  [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/Intersystems-CloudStudio)  
  
-then navigate to:  
+navigate to:  
 https://52773-gitpod_server_address/cloudstudio/CloudStudio.Index.cls
   
 where  
 &nbsp;&nbsp;&nbsp;&nbsp;  gitpod_server_address = ramsailopal-intersystem-xxxxxxxxxxx.ws-us81.gitpod.io  
 
-Change the password on request from:  
+and change the password on request from:  
 &nbsp;&nbsp;  Username: **_SYSTEM**  
 &nbsp;&nbsp;  Password: **SYS**  
 
 # Local
-
+open in terminal:
 docker run --name my-iris -p 52773:52773 -d ramb0/cloudstudio --check-caps false
-then navigate to:  
+
+navigate to:  
 http://localhost:52773/cloudstudio/CloudStudio.Index.cls
 
-Change the password on request from:  
+and change the password on request from:  
 &nbsp;&nbsp;  Username: **_SYSTEM**  
 &nbsp;&nbsp;  Password: **SYS**  
 
