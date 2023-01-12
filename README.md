@@ -28,7 +28,7 @@ Change the password on request from:
 then navigate to:  
 http://localhost:52773/cloudstudio/CloudStudio.Index.cls
 
-then login (and change the password):  
+Change the password on request from:  
 &nbsp;&nbsp;  Username: **_SYSTEM**  
 &nbsp;&nbsp;  Password: **SYS**  
 
