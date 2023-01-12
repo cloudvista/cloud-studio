@@ -14,10 +14,10 @@ Welcome to an early Preview release of Cloud Studio, a pure web-based code edito
  
 then navigate to:  
 
-https://52773-*<gitpod server address\>*__/cloudstudio/CloudStudio.Index.cls__    
+https: //52773- *gitpod_server_address* __/cloudstudio/CloudStudio.Index.cls__    
   
 where  
-\<gitpod server address\> = ramsailopal-intersystem-xxxxxxxxxxx.ws-us81.gitpod.io  
+gitpod_server_address = ramsailopal-intersystem-xxxxxxxxxxx.ws-us81.gitpod.io  
 
 Change the password on request from:  
 Username: **_SYSTEM**  
