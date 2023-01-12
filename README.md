@@ -13,7 +13,7 @@ By Sean Connelly https://github.com/SeanConnelly/CloudStudio
 
 
 ## Gitpod
- [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/Intersystems-CloudStudio) to open immediately in the web browser (need to create a free Gitpod account)
+ [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/Intersystems-CloudStudio) to open in web browser
 
 then navigate to:
 
