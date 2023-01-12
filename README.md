@@ -23,7 +23,7 @@ and change the password on request from:
 &nbsp;&nbsp;  Password: **SYS**  
 
 # Local
-open in terminal:
+open in terminal:  
 docker run --name my-iris -p 52773:52773 -d ramb0/cloudstudio --check-caps false
 
 navigate to:  
