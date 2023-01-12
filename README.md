@@ -14,8 +14,9 @@ The project is currently "work in progress" and is at the early stages of develo
  [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/Intersystems-CloudStudio)  
  
 then navigate to:
-
-https://52773-<gitpod server address\>/cloudstudio/CloudStudio.Index.cls  
+``
+https://52773-<gitpod server address\>/cloudstudio/CloudStudio.Index.cls
+``
 where  
 \<gitpod server address\> = ramsailopal-intersystem-xxxxxxxxxxx.ws-us81.gitpod.io  
 
