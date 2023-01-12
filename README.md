@@ -14,8 +14,8 @@ Welcome to an early Preview release of Cloud Studio, a pure web-based code edito
  
 then navigate to:  
 ``
-https://52773-<gitpod server address\>/cloudstudio/CloudStudio.Index.cls  
-``
+https://52773-<gitpod server address\>/cloudstudio/CloudStudio.Index.cls    
+``  
 where  
 \<gitpod server address\> = ramsailopal-intersystem-xxxxxxxxxxx.ws-us81.gitpod.io  
 
