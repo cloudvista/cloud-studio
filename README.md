@@ -3,7 +3,9 @@
 ## Introduction
 
 Welcome to an early Preview release of Cloud Studio, a code editor for Iris. Documentation will follow an Alpha release.
-The project is currently "work in progress" and is at the early stages of development and testing. Developer: Sean Connelly https://github.com/SeanConnelly/CloudStudio
+The project is currently "work in progress" and is at the early stages of development and testing. 
+
+By Sean Connelly https://github.com/SeanConnelly/CloudStudio
 
 [Video Demonstration](https://www.youtube.com/watch?v=Am6QAvrPPPg)
 
