@@ -1,10 +1,10 @@
-# Intersystems-CloudStudio
+# CloudStudio
 
-A demo of Intersystems IRIS with CloudStudio (developed by Sean Connelly)
+A demo of IRIS with CloudStudio (developed by Sean Connelly)
 
 # Gitpod
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/Intersystems-CloudStudio) for free (simply create an account)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/Intersystems-CloudStudio) 
 
 then navigate to:
 
