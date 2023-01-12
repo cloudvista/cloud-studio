@@ -3,7 +3,7 @@
 ## Introduction
 
 Welcome to an early Preview release of Cloud Studio, a code editor for M routines and globals in Iris. Documentation will follow an Alpha release.
-The project is currently "work in progress" and is at the early stages of development and testing. Plan is for integration with other M implementations.  Open source and free to use and modify with no restriction. Author:  Sean Connelly 
+The project is currently "work in progress" and is at the early stages of development and testing. Plan is for integration with all ISO/ANSI compliant M implementations.  Open source and free to use and modify with no restriction. Author:  Sean Connelly 
 
 [Video Demonstration](https://www.youtube.com/watch?v=Am6QAvrPPPg)
 
