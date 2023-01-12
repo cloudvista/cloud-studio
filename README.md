@@ -3,17 +3,18 @@
 ## Introduction
 
 Welcome to an early Preview release of Cloud Studio, a code editor for Iris. Documentation will follow an Alpha release. 
+The project is currently "work in progress" and is at the early stages of development and testing.  
+Use of the project should be experimental for now.  
 Author: Sean Connelly https://github.com/SeanConnelly/CloudStudio
 
 [Video Demonstration](https://www.youtube.com/watch?v=Am6QAvrPPPg)
 
 ![Cloud Studio Demonstration](./npc/Screeshot.jpg)
 
-The project is currently "work in progress" and is at the early stages of development and testing.  
-Use of the project should be experimental for now.
+
 
 ## Gitpod
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/Intersystems-CloudStudio) 
+Open and test immediately in the web browser: [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/Intersystems-CloudStudio) 
 
 then navigate to:
 
