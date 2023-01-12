@@ -17,9 +17,11 @@ then navigate to:
 https: //52773-__gitpod_server_address__ */cloudstudio/CloudStudio.Index.cls*    
   
 where  
+
 gitpod_server_address = ramsailopal-intersystem-xxxxxxxxxxx.ws-us81.gitpod.io  
 
 Change the password on request from:  
+
 Username: **_SYSTEM**  
 Password: **SYS**  
 
