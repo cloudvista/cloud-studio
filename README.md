@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Welcome to an early Preview release of Cloud Studio, a code editor for Iris. Documentation will follow an Alpha release.
+Welcome to an early Preview release of Cloud Studio, a code editor for Iris. Documentation will follow an Alpha release.  
+Author: Sean Connelly https://github.com/SeanConnelly/CloudStudio
 
 [Video Demonstration](https://www.youtube.com/watch?v=Am6QAvrPPPg)
 
