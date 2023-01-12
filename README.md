@@ -13,8 +13,8 @@ By Sean Connelly https://github.com/SeanConnelly/CloudStudio
 
 
 ## Gitpod
- [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/Intersystems-CloudStudio) to open in web browser
-
+ [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/Intersystems-CloudStudio)  (needs free Gitpod account)
+ 
 then navigate to:
 
 https://52773-<gitpod server address\>/cloudstudio/CloudStudio.Index.cls  
