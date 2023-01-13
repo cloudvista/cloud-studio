@@ -41,4 +41,6 @@ https://github.com/coder/code-server
 
 # VistA CloudStudio
 
-![mp4](./vid/cloudstudio-vista.mp4?raw=true)
+![webm(./vid/cloudstudio-vista.webm?raw=true)
+
+![webp](./vid/cloudstudio-vista.webp?raw=true)
