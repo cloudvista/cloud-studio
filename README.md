@@ -41,5 +41,5 @@ https://github.com/coder/code-server
 
 # VistA CloudStudio
 
-![Cloud Studio Demo](./vid/cloudstudio-vista.webm?raw=true "Cloud Vista IDE")
+![Cloud Studio Demo](./vid/cloudstudio-vista.webm?raw=true)
 
